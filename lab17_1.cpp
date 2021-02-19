@@ -1,6 +1,3 @@
-
-
-Butter ส่ง วันนี้ เวลา 17:24 น.
 #include<iostream>
 #include<fstream>
 #include<vector>
